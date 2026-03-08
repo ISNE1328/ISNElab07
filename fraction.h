@@ -1,4 +1,4 @@
-//challenge02 680615028
+//challenge05 680615028
 #ifndef FRACTION_H
 #define FRACTION_H
 
